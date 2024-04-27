@@ -8,9 +8,9 @@ text-decoration: none;
 background-color: #004658;
 color: #fff;
 }
-.footer-content-column {
+/* .footer-content-column { */
   
-}
+
 .footer-wave-svg {
 background-color: transparent;
 display: block;
@@ -259,8 +259,8 @@ padding-top: 20px;
 @media (min-width:320px) and (max-width:479px)  { 
 .container {
  margin-left: 0px !important; 
-}/* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
-.footer-content {
+/* smartphones, portrait iPhone, portrait 480x320 phones (Android) */
+/* .footer-content { */
 /*margin-left: auto;
 margin-right: auto;
 max-width: 1230px;*/
@@ -309,13 +309,13 @@ position: relative;
 
 
 @media (min-width: 760px) {
-.footer-content {
+/* .footer-content { */
  /* margin-left: auto;
   margin-right: auto;
   max-width: 1230px;*/
   /*padding: 40px 15px 0px;*/
   /*position: relative;*/
-}
+
 
 .footer-wave-svg {
   height: 50px;
